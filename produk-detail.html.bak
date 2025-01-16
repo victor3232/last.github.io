@@ -4,11 +4,11 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-	<link rel="stylesheet" href="../assets/bootstrap/css/bootstrap.min.css">
-	<link rel="stylesheet" href="../assets/css/style.css">
-	<link rel="stylesheet" href="../assets/fontawesome/css/all.min.css">
+	<link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" href="assets/css/style.css">
+	<link rel="stylesheet" href="assets/fontawesome/css/all.min.css">
 
-	<title>Kategori VPS DIGITAL OCEAN- Rima Arhyan</title>
+	<title>Talisa Dress Women's Casual Short-Sleeve Premium Dress - Rima Arhyan</title>
 </head>
 <body class="bg-light">
 	<nav class="navbar navbar-expand-lg navbar-dark bg-website">
@@ -16,32 +16,32 @@
 			<span class="navbar-toggler-icon"></span>
 		</button>
 		<div class="collapse navbar-collapse" id="navbarTogglerDemo01">
-			<a class="navbar-brand active" href="../">Rhima Arhyan</a>
+			<a class="navbar-brand active" href="./">Rhima Arhyan</a>
 			<ul class="navbar-nav mr-auto mt-2 mt-lg-0">
 				<li class="nav-item">
-					<a class="nav-link" href="../">Beranda</a>
+					<a class="nav-link" href="./">Beranda</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="kategori.html">Kategori</a>
 				</li>
 				<li class="nav-item active">
-					<a class="nav-link" href="../kategori.html">Kategori</a>
+					<a class="nav-link" href="produk.html">Produk</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="../produk.html">Produk</a>
+					<a class="nav-link" href="pemesanan.html">Pemesanan</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="../pemesanan.html">Pemesanan</a>
-				</li>
-				<li class="nav-item">
-					<a class="nav-link" href="../testimoni.html">Testimoni</a>
+					<a class="nav-link" href="testimoni.html">Testimoni</a>
 				</li>
 			</ul>
 			<ul class="navbar-nav ml-auto">
 				<li class="nav-item">
-					<a class="nav-link" href="../notifikasi.html">
+					<a class="nav-link" href="notifikasi.html">
 						<i class="fa fa-bell fa-1-5x"></i>
 					</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="../keranjang.html">
+					<a class="nav-link" href="keranjang.html">
 						<i class="fa fa-shopping-basket fa-1-5x"></i>
 					</a>
 				</li>
@@ -50,10 +50,10 @@
 						<i class="fa fa-user-circle fa-1-5x"></i>
 					</a>
 					<div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
-						<a class="dropdown-item" href="../login.html">Login</a>
-						<a class="dropdown-item" href="../mendaftar.html">Mendaftar</a>
+						<a class="dropdown-item" href="login.html">Login</a>
+						<a class="dropdown-item" href="mendaftar.html">Mendaftar</a>
 						<div class="dropdown-divider"></div>
-						<a class="dropdown-item" href="../profil.html">Profil</a>
+						<a class="dropdown-item" href="profil.html">Profil</a>
 					</div>
 				</li>
 			</ul>
@@ -62,54 +62,92 @@
 
 	<div class="nav-scroller bg-white shadow-sm mb-4">
 		<div class="container-fluid pt-2 pb-2">
-			<a href="../">Halaman Utama</a> > <a href="../kategori.html">Kategori</a> > vps dogital ocean
+			<a href="./">Halaman Utama</a> > <a href="kategori.html">Kategori</a> > <a href="kategori/baju.html">Baju Wanita</a> > Talisa Dress Women's Casual Short-Sleeve Premium Dress
 		</div>
 	</div>
 
-	<center class="mb-5">
-		<h4 class="text-website">Semua Produk vps digital ocean</h4>
-		<hr class="garis">
-	</center>
+	<div class="container my-5">
+		<div class="row mb-4">
+			<div class="col-sm-12 col-lg-5">
+				<img src="assets/img/produk/1.jpg" class="img-fluid">				
+			</div>
+			<div class="col-sm-12 col-lg-7">
+				<div class="card card-body shadow-sm">
+					<h4 class="text-website">
+						Talisa Dress Women's Casual Short-Sleeve Premium Dress
+					</h4>
+					<h4 class="text-warning">
+						Rp150.000
+					</h4>
 
-	<div class="container">
-		<div class="row mb-5">
-			<!-- Awal slot produk -->
-
-			<!-- Pemisah per produk -->
-			<div class="col-sm-12 col-lg-3 mb-3">
-				<a href="../produk-detail.html" class="hvnb">
-					<div class="list-group shadow-sm">
-						<div class="list-group-item gambar-produk" style="background: url(../assets/img/produk/1.jpg);">
-						</div>
-						<div class="list-group-item">
-							<div class="mb-2">
-								<span class="active text-website">Rp25.000 - 60.000</span>
-								<span class="float-right text-muted">Terjual: 100pcs</span>
+					<hr>
+					<p class="b text-muted">Kuantitas</p>
+					<div class="row">
+						<div class="col-sm-12 col-lg-4">
+							<div class="input-group mb-3">
+								<div class="input-group-prepend">
+									<button class="input-group-text">-</button>
+								</div>
+								<input type="text" class="form-control" value="1">
+								<div class="input-group-append">
+									<button class="input-group-text">+</button>
+								</div>
 							</div>
-							<p class="card-text text-dark">Talisa Dress Women's Casual Short-Sleeve Premium Dress</p>
-						</div>
-						<div class="list-group-item btn-outline-success pl-3">
-							Detail Produk
 						</div>
 					</div>
-				</a>
+					<p class="b text-muted">Stok</p>
+					<p>50pcs</p>
+					<div class="my-2">
+						<div class="row">
+							<div class="col-sm-12 col-lg-5">
+								<a href="keranjang.html" class="hvnb">
+									<button class="btn bg-website text-white btn-block">
+										Beli Sekarang
+									</button>
+								</a>
+							</div>
+						</div>
+					</div>
+					<hr>
+					<div class="table-responsive">
+						<table>
+							<tbody>
+								<tr>
+									<td>Pengiriman Ke</td>
+									<td>:</td>
+									<td>&nbsp;</td>
+									<td class="text-website">Medan Kota</td>
+									<td>&nbsp;</td>
+								</tr>
+								<tr>
+									<td><i class="fa fa-truck"></i> Pilih Kurir</td>
+									<td>:</td>
+									<td>&nbsp;</td>
+									<td>
+										<select class="form-control form-control-sm">
+											<option>JNE REG (3 Hari Kerja)</option>
+										</select>
+
+									</td>
+									<td>Rp35.000</td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
+				</div>
 			</div>
-			<!-- Pemisah per produk -->
-
-			<!-- Akhir slot produk -->
 		</div>
-
-		<nav class="d-flex justify-content-center">
-			<ul class="pagination shadow-sm">
-				<li class="page-item disabled"><a class="page-link" href="#">Prev</a></li>
-				<li class="page-item active"><a class="page-link" href="#">1</a></li>
-				<li class="page-item"><a class="page-link" href="#">2</a></li>
-				<li class="page-item"><a class="page-link" href="#">3</a></li>
-				<li class="page-item"><a class="page-link" href="#">4</a></li>
-				<li class="page-item"><a class="page-link" href="#">5</a></li>
-				<li class="page-item"><a class="page-link" href="#">Next</a></li>
-			</ul>
-		</nav>		
+		<div class="list-group">
+			<div class="list-group-item b text-website">
+				Deskripsi Produk
+			</div>
+			<div class="list-group-item">
+				<p>Talisa Dress Women's Casual Short-Sleeve Premium Dress</p>
+				<p>Pakaian wanita bahan katun lembut dan nyaman dipakai, elastis tidak luntur</p>
+				<p>Ukuran: 37, 38, 40</p>
+				<p>Warna: Putih, Hitam, Abu-abu, Merah Jambu</p>
+			</div>
+		</div>
 	</div>
 
     <div class="bg-website mt-5 p-2">
@@ -154,8 +192,8 @@
         </div>
     </div>
 
-    <script src="../assets/js/jquery-3.3.1.slim.min.js"></script>
-    <script src="../assets/js/popper.min.js"></script>
-    <script src="../assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="assets/js/jquery-3.3.1.slim.min.js"></script>
+    <script src="assets/js/popper.min.js"></script>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
 </body>
 </html>
